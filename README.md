@@ -13,5 +13,6 @@ A continuación se muestran varias imagenes del programa funcionando.
 ANALIZADOR LEXICO
 En el analizador léxico se puede ingresar una cadena de datos y leer, una vez guardada la cadena la va a concatenar y guardar en una tabla, en dicha tabla se van a guardar y especificar los tipos y los simbolos de cada cadena o caracter ingresado.
 A continuación se muestran varias imagenes del programa funcionando.
+
 ![image](https://user-images.githubusercontent.com/109251704/213955119-829254ce-e652-4a57-9bdb-c898b5c9579f.png)
 
