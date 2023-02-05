@@ -6,3 +6,5 @@ La investigación del analizador léxico se encuentra dentro de la misma carpeta
 
 El excel del analizador sintáctico se encuenta en la rama principal, en la carpeta de analizador sintactico y se muestra con el nombre de analizador sintactico (excel).
 Además, el código se encuentra en una carpeta dentro de la misma carpeta de la rama principal llamada analizador sintáctico.
+
+El analizador sintactico con objetos se encuentra en la carpeta llamada "Analizador sintactico objetos", dentro de este se encuentra el código y su respectivo reporte.
