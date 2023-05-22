@@ -1,0 +1,20 @@
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.exe.config
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.exe
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.pdb
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.exe
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.pdb
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador_Lexico.MainForm.resources
+C:\Users\PC\OneDrive\Documentos\SharpDevelop Projects\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.exe.config
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.exe
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\bin\Debug\Analizador Lexico.pdb
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador_Lexico.MainForm.resources
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.exe
+C:\Users\PC\OneDrive\Documentos\6to INCO\Traductores 2\Analizador Lexico\Analizador Lexico\obj\Debug\Analizador Lexico.pdb

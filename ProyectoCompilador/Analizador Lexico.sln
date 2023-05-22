@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analizador Lexico", "Analizador Lexico\Analizador Lexico.csproj", "{829F108E-9DA8-499E-928A-BC815A467ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829F108E-9DA8-499E-928A-BC815A467ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829F108E-9DA8-499E-928A-BC815A467ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829F108E-9DA8-499E-928A-BC815A467ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829F108E-9DA8-499E-928A-BC815A467ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
